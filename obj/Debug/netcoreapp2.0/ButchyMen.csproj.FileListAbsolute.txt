@@ -1,0 +1,11 @@
+C:\uni\ood\code\ButchyMen\obj\Debug\netcoreapp2.0\ButchyMen.csprojAssemblyReference.cache
+C:\uni\ood\code\ButchyMen\obj\Debug\netcoreapp2.0\ButchyMen.csproj.CoreCompileInputs.cache
+C:\uni\ood\code\ButchyMen\obj\Debug\netcoreapp2.0\ButchyMen.AssemblyInfoInputs.cache
+C:\uni\ood\code\ButchyMen\obj\Debug\netcoreapp2.0\ButchyMen.AssemblyInfo.cs
+C:\uni\ood\code\ButchyMen\bin\Debug\netcoreapp2.0\ButchyMen.deps.json
+C:\uni\ood\code\ButchyMen\bin\Debug\netcoreapp2.0\ButchyMen.runtimeconfig.json
+C:\uni\ood\code\ButchyMen\bin\Debug\netcoreapp2.0\ButchyMen.runtimeconfig.dev.json
+C:\uni\ood\code\ButchyMen\bin\Debug\netcoreapp2.0\ButchyMen.dll
+C:\uni\ood\code\ButchyMen\bin\Debug\netcoreapp2.0\ButchyMen.pdb
+C:\uni\ood\code\ButchyMen\obj\Debug\netcoreapp2.0\ButchyMen.dll
+C:\uni\ood\code\ButchyMen\obj\Debug\netcoreapp2.0\ButchyMen.pdb
